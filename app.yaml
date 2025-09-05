@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: humous
+owner: turboproxy
+package: .
